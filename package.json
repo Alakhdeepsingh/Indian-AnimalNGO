@@ -1,5 +1,4 @@
 {
-  
   "name": "animals",
   "version": "0.1.0",
   "private": true,
@@ -8,6 +7,7 @@
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "bootstrap": "^5.1.0",
+    "firebase": "^9.6.6",
     "react": "^17.0.2",
     "react-bootstrap": "^2.0.0-beta.6",
     "react-dom": "^17.0.2",

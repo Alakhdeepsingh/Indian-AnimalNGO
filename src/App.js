@@ -1,5 +1,4 @@
 import "./App.css";
-import logo from "./logo.svg";
 import { About } from "./About";
 import "bootstrap/dist/css/bootstrap.min.css";
 import * as ReactBootStrap from "react-bootstrap";
@@ -7,7 +6,6 @@ import img1 from "./img1.jpeg";
 import img2 from "./img2.jpg";
 import img3 from "./img3.jpg";
 import img4 from "./L.png";
-import img6 from "./f.png";
 import img7 from "./img7.png";
 import img8 from "./img8.png";
 import img9 from "./img9.png";
@@ -66,10 +64,7 @@ let hey = {
 };
 //padding of all the three box
 
-let hey1 = {
-  paddingRight: "100px",
-  paddingLeft: "10px",
-};
+
 //linkedin and github below animalngo.org
 
 let color = {
@@ -263,7 +258,7 @@ function App() {
 
 
                   <ReactBootStrap.CardGroup style={hey}>
-                    <ReactBootStrap.Card style={(hey, margin2)}>
+                    <ReactBootStrap.Card style={margin2}>
                       <ReactBootStrap.Card.Img variant="top" src={i3} />
                       <ReactBootStrap.Card.Body>
                         <ReactBootStrap.Card.Title>
@@ -292,7 +287,7 @@ function App() {
                       </ReactBootStrap.Card.Body>
                     </ReactBootStrap.Card>
 
-                    <ReactBootStrap.Card style={(hey, margin2)}>
+                    <ReactBootStrap.Card style={margin2}>
                       <ReactBootStrap.Card.Img variant="top" src={i1} />
                       <ReactBootStrap.Card.Body>
                         <ReactBootStrap.Card.Title>
@@ -321,7 +316,7 @@ function App() {
                       </ReactBootStrap.Card.Body>
                     </ReactBootStrap.Card>
 
-                    <ReactBootStrap.Card style={(hey, margin2)}>
+                    <ReactBootStrap.Card style={margin2}>
                       <ReactBootStrap.Card.Img variant="top" src={i2} />
                       <ReactBootStrap.Card.Body>
                         <ReactBootStrap.Card.Title>
@@ -395,16 +390,16 @@ function App() {
                       <h2 style={light}>Social Media</h2>
                       <div style={margin}>
                         <a href="https://www.linkedin.com/signup">
-                          <img style={size} src={img4} />
+                          <img style={size} alt="hello" src={img4} />
                         </a>
                         <a style={size} href="https://www.facebook.com/">
-                          <img style={size} src={img7} />
+                          <img style={size} alt="hello" src={img7} />
                         </a>
                         <a href="https://twitter.com/?lang=en">
-                          <img style={size} src={img8} />
+                          <img style={size} alt="hello" src={img8} />
                         </a>
                         <a href="https://www.youtube.com/">
-                          <img style={size} src={img9} />
+                          <img style={size} alt="hello" src={img9} />
                         </a>
                       </div>
                     </div>
@@ -431,15 +426,7 @@ function App() {
                   <hr className="light-100" style={light} />
                   <h5 style={light}>&copy; AnimalNGO.org</h5>
                   <h6 style={light}>Developer Contact</h6>
-                  {/* <a
-                    style={hey1}
-                    href="https://www.linkedin.com/in/priyaanshu-mittra-9bb0961b9/"
-                  >
-                    Linkedin
-                  </a>
-                  <a style={hey1} href="https://github.com/mittrajpeg606">
-                    Github
-                  </a> */}
+             
                 </div>
                 
               </div>
