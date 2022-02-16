@@ -12,6 +12,9 @@ import img9 from "./img9.png";
 import i1 from "./i1.jpg";
 import i3 from "./i3.jpg";
 import i2 from "./i2.jpg";
+import poordog5 from "./poordog5.jpg"
+import poordog6 from "./poordog6.jpg"
+import poordog7 from "./poordog7.jpg"
 
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import { Link } from "react-router-dom";
@@ -59,8 +62,7 @@ let wow = {
 //AnimalNGO space from the left in navabar
 
 let hey = {
-  padding: "100px",
-  
+  padding: "10px",
 };
 //padding of all the three box
 
@@ -99,7 +101,7 @@ function App() {
               <ReactBootStrap.Button
                 style={margin1}
                 className="float-right"
-                href="https://rzp.io/l/9qZJbg5"
+                href="https://rzp.io/l/68IC5Nb"
                 variant="outline-success"
               >
                 Donate
@@ -116,7 +118,7 @@ function App() {
                         <img
                           style={style}
                           className="w-100"
-                          src={img1}
+                          src={img2}
                           alt="First slide"
                         />
                         <ReactBootStrap.Carousel.Caption>
@@ -131,7 +133,7 @@ function App() {
                         <img
                           style={style}
                           className="d-block w-100"
-                          src={img2}
+                          src={img3}
                           alt="Second slide"
                         />
                         <ReactBootStrap.Carousel.Caption>
@@ -145,7 +147,7 @@ function App() {
                         <img
                           style={style}
                           className="d-block w-100"
-                          src={img3}
+                          src={poordog5}
                           alt="Third slide"
                         />
                         <ReactBootStrap.Carousel.Caption>
@@ -153,6 +155,26 @@ function App() {
                           <p>The Earth will lose its soul without animals.</p>
                         </ReactBootStrap.Carousel.Caption>
                       </ReactBootStrap.Carousel.Item>
+
+
+
+                      <ReactBootStrap.Carousel.Item>
+                        <img
+                          style={style}
+                          className="d-block w-100"
+                          src={poordog6}
+                          alt="Third slide"
+                        />
+                        <ReactBootStrap.Carousel.Caption>
+                          <h3>Respect animals</h3>
+                          <p>The Earth will lose its soul without animals.</p>
+                        </ReactBootStrap.Carousel.Caption>
+                      </ReactBootStrap.Carousel.Item>
+
+
+
+
+
                     </ReactBootStrap.Carousel>
                   </div>
 
@@ -161,7 +183,7 @@ function App() {
                 <div class="row" >
                   <div class="col col-4" >
 
-<div>
+                  <div>
                   <ReactBootStrap.Modal.Dialog>
                     <ReactBootStrap.Modal.Title style={wow}>
                       Our Vision
@@ -180,7 +202,7 @@ function App() {
                       <ReactBootStrap.Button
                         className="btn btn-success"
                         variant="primary"
-                        href="https://rzp.io/l/9qZJbg5"
+                        href="https://rzp.io/l/68IC5Nb"
                       >
                         Donate
                       </ReactBootStrap.Button>
@@ -213,7 +235,7 @@ function App() {
                       <ReactBootStrap.Button
                         className="btn btn-success"
                         variant="primary"
-                        href="https://rzp.io/l/9qZJbg5"
+                        href="https://rzp.io/l/68IC5Nb"
                       >
                         Donate
                       </ReactBootStrap.Button>
@@ -245,7 +267,7 @@ function App() {
     <ReactBootStrap.Button
       className="btn btn-success"
       variant="primary"
-      href="https://rzp.io/l/9qZJbg5"
+      href="https://rzp.io/l/68IC5Nb"
     >
       Donate
     </ReactBootStrap.Button>
@@ -389,13 +411,13 @@ function App() {
                     <div className="text-center">
                       <h2 style={light}>Social Media</h2>
                       <div style={margin}>
-                        <a href="https://www.linkedin.com/signup">
+                        <a href="https://www.linkedin.com/in/alakhdeepsingh/">
                           <img style={size} alt="hello" src={img4} />
                         </a>
-                        <a style={size} href="https://www.facebook.com/">
+                        <a style={size} href="https://www.facebook.com/karmaanimalfoundation/">
                           <img style={size} alt="hello" src={img7} />
                         </a>
-                        <a href="https://twitter.com/?lang=en">
+                        <a href="https://twitter.com/KarmaForAnimals">
                           <img style={size} alt="hello" src={img8} />
                         </a>
                         <a href="https://www.youtube.com/">
@@ -413,13 +435,13 @@ function App() {
 
                 <div className="col-md-4">
                   {/* <hr className="light" style={light} /> */}
-                  <h5 style={light}>About</h5>
+                  <h5 style={light}>Visit the website</h5>
                   {/* <hr className="light" style={light} /> */}
                   <a href="https://www.pawsindia.org/">
-                    <p style={light}>Links</p>
+                    <p style={light}> Pawsindia</p>
                   </a>
                   <a href="https://www.scoopwhoop.com/ngos-for-animals/">
-                    <p style={light}>Other Links</p>
+                    <p style={light}>NGOs for Animals</p>
                   </a>
                 </div>
                 <div className="col-12">
