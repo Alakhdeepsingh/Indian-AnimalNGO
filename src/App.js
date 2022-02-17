@@ -21,7 +21,9 @@ import { Link } from "react-router-dom";
 
 let style = {
   //width: "10px",
-  height: "650px",
+  height: "640px",
+  
+  
 };
 //slider
 
@@ -44,25 +46,25 @@ let margin = {
 //contact us margin
 
 let margin1 = {
-  marginLeft: "90px",
+  marginLeft: "25px",
 };
 //navbar donate button right left
 
 let margin2 = {
-  margin: "10px",
+  margin: "20px",
   height:650,
-  width:20
+  width:5
 
 };
 //gapping between our vision and below three box
 
 let wow = {
-  paddingLeft: "20px",
+  paddingLeft: "30px",
 };
 //AnimalNGO space from the left in navabar
 
 let hey = {
-  padding: "10px",
+  padding: "20px",
 };
 //padding of all the three box
 
@@ -83,7 +85,7 @@ function App() {
     <>
       <Router>
         <div style={color} className="App">
-          <ReactBootStrap.Navbar bg="light" expand="lg">
+          <ReactBootStrap.Navbar bg="white" expand="lg">
             <ReactBootStrap.Navbar.Brand as={Link} style={wow} to="/">
               Animal NGO
             </ReactBootStrap.Navbar.Brand>
@@ -180,8 +182,8 @@ function App() {
 
 
 
-                <div class="row" >
-                  <div class="col col-4" >
+                <div class="row" style={{padding:100}} >
+                  <div class="col col-4 height" >
 
                   <div>
                   <ReactBootStrap.Modal.Dialog>
@@ -198,15 +200,15 @@ function App() {
                       </p>
                     </ReactBootStrap.Modal.Body>
 
-                    <ReactBootStrap.Modal.Footer>
-                      <ReactBootStrap.Button
+                    {/* <ReactBootStrap.Modal.Footer> */}
+                      {/* <ReactBootStrap.Button
                         className="btn btn-success"
                         variant="primary"
                         href="https://rzp.io/l/68IC5Nb"
                       >
                         Donate
-                      </ReactBootStrap.Button>
-                    </ReactBootStrap.Modal.Footer>
+                      </ReactBootStrap.Button> */}
+                    {/* </ReactBootStrap.Modal.Footer> */}
                   </ReactBootStrap.Modal.Dialog>
                   </div>
                   </div>
@@ -263,7 +265,7 @@ function App() {
     </p>
   </ReactBootStrap.Modal.Body>
 
-  <ReactBootStrap.Modal.Footer>
+  {/* <ReactBootStrap.Modal.Footer>
     <ReactBootStrap.Button
       className="btn btn-success"
       variant="primary"
@@ -271,14 +273,14 @@ function App() {
     >
       Donate
     </ReactBootStrap.Button>
-  </ReactBootStrap.Modal.Footer>
+  </ReactBootStrap.Modal.Footer> */}
 </ReactBootStrap.Modal.Dialog>
 
 </div>
                   </div>
                   </div>
 
-
+<div style={{padding:150}}>
                   <ReactBootStrap.CardGroup style={hey}>
                     <ReactBootStrap.Card style={margin2}>
                       <ReactBootStrap.Card.Img variant="top" src={i3} />
@@ -366,7 +368,7 @@ function App() {
                       </ReactBootStrap.Card.Body>
                     </ReactBootStrap.Card>
                   </ReactBootStrap.CardGroup>
-
+                  </div>
                   {/* <section>
                     <div className="text-center">
                       <h2>Contact Us</h2>
