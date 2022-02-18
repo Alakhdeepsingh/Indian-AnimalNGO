@@ -182,8 +182,8 @@ function App() {
 
 
 
-                <div class="row" style={{padding:100}} >
-                  <div class="col col-4 height" >
+                <div className="row height" style={{padding:100}} >
+                  <div className="col col-4 height" >
 
                   <div>
                   <ReactBootStrap.Modal.Dialog>
@@ -214,7 +214,7 @@ function App() {
                   </div>
 
 
-                  <div class="col col-4">
+                  <div className="col col-4">
 
                   <div>
 
@@ -233,20 +233,14 @@ function App() {
                       </p>
                     </ReactBootStrap.Modal.Body>
 
-                    <ReactBootStrap.Modal.Footer>
-                      <ReactBootStrap.Button
-                        className="btn btn-success"
-                        variant="primary"
-                        href="https://rzp.io/l/68IC5Nb"
-                      >
-                        Donate
-                      </ReactBootStrap.Button>
-                    </ReactBootStrap.Modal.Footer>
+                    {/* <ReactBootStrap.Modal.Footer>
+                  
+                    </ReactBootStrap.Modal.Footer> */}
                   </ReactBootStrap.Modal.Dialog>
                   </div>
 </div>
 
-<div class="column col-4">
+<div className="column col-4">
 
 
 <div>
@@ -265,13 +259,13 @@ function App() {
     </p>
   </ReactBootStrap.Modal.Body>
 
-  {/* <ReactBootStrap.Modal.Footer>
+ {/* <ReactBootStrap.Modal.Footer> 
     <ReactBootStrap.Button
       className="btn btn-success"
       variant="primary"
-      href="https://rzp.io/l/68IC5Nb"
+      href="/about"
     >
-      Donate
+      About
     </ReactBootStrap.Button>
   </ReactBootStrap.Modal.Footer> */}
 </ReactBootStrap.Modal.Dialog>
@@ -279,6 +273,21 @@ function App() {
 </div>
                   </div>
                   </div>
+
+                  {/* <ReactBootStrap.Modal.Footer> */}
+                  
+              
+                  <ReactBootStrap.Button
+                        className="btn btn-success but"
+                        variant="primary"
+                        href="https://rzp.io/l/68IC5Nb"
+                      >
+                        Donate
+                      </ReactBootStrap.Button>
+                      {/* </ReactBootStrap.Modal.Footer> */}
+
+
+
 
 <div style={{padding:150}}>
                   <ReactBootStrap.CardGroup style={hey}>
@@ -408,7 +417,7 @@ function App() {
                 </div>
 
 
-<div class="col-md-4" >
+<div className="col-md-4" >
           
                     <div className="text-center">
                       <h2 style={light}>Social Media</h2>
