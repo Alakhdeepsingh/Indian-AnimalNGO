@@ -2,7 +2,6 @@ import "./App.css";
 import { About } from "./About";
 import "bootstrap/dist/css/bootstrap.min.css";
 import * as ReactBootStrap from "react-bootstrap";
-import img1 from "./img1.jpeg";
 import img2 from "./img2.jpg";
 import img3 from "./img3.jpg";
 import img4 from "./L.png";
@@ -14,7 +13,6 @@ import i3 from "./i3.jpg";
 import i2 from "./i2.jpg";
 import poordog5 from "./poordog5.jpg"
 import poordog6 from "./poordog6.jpg"
-import poordog7 from "./poordog7.jpg"
 
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import { Link } from "react-router-dom";
@@ -174,9 +172,6 @@ function App() {
                       </ReactBootStrap.Carousel.Item>
 
 
-
-
-
                     </ReactBootStrap.Carousel>
                   </div>
 
@@ -271,19 +266,41 @@ function App() {
 </ReactBootStrap.Modal.Dialog>
 
 </div>
+
                   </div>
+                  <div className="row">
+                  <div className="col-4">
+
                   </div>
+                      <div className = "col-4 donatebutton">
+                      <ReactBootStrap.Button
+                        className="btn btn-warning"
+                        variant="primary"
+                        href="https://rzp.io/l/68IC5Nb"
+                        size="lg"
+                      >
+                        Donate
+                      </ReactBootStrap.Button>
+                      </div>
+                      <div className="col-4">
+
+                      </div>
+                      </div>
+
+
+
+                  </div>
+
+
+
+
+
+
 
                   {/* <ReactBootStrap.Modal.Footer> */}
                   
               
-                  <ReactBootStrap.Button
-                        className="btn btn-success but"
-                        variant="primary"
-                        href="https://rzp.io/l/68IC5Nb"
-                      >
-                        Donate
-                      </ReactBootStrap.Button>
+              
                       {/* </ReactBootStrap.Modal.Footer> */}
 
 

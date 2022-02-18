@@ -5,3 +5,10 @@
 /* .height{
   height:100px;
 } */
+.donatebutton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height:200px;
+
+}
