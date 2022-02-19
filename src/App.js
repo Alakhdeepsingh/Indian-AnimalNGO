@@ -51,7 +51,9 @@ let margin1 = {
 let margin2 = {
   margin: "20px",
   height:650,
-  width:5
+  width:5,
+  marginbottom: "10px",
+
 
 };
 //gapping between our vision and below three box
@@ -62,7 +64,8 @@ let wow = {
 //AnimalNGO space from the left in navabar
 
 let hey = {
-  padding: "20px",
+  padding: "10px",
+  
 };
 //padding of all the three box
 
@@ -183,15 +186,18 @@ function App() {
                   <div>
                   <ReactBootStrap.Modal.Dialog>
                     <ReactBootStrap.Modal.Title style={wow}>
-                      Our Vision
+                    BECOME VOLUNTEER
                     </ReactBootStrap.Modal.Title>
 
                     <ReactBootStrap.Modal.Body>
                       <p>
-                        Animal NGO is founded by visionaries who felt the need
-                        to build a free of cost medical facility for the stray
-                        animals where the best, most advanced, ethical and
-                        highly skilled medical care is readily available.
+                     
+                      There are so many takers for pedigree dogs. But our Desi Indian breed look upto you.. Make a difference!
+You will primarily socialize with puppies, cats and dogs in addition to walking the dogs. It’s essential to teach dogs and cats to trust people if they are to find their fur-ever homes.
+
+Almost all of our animals are ex-street dogs and cats who have never been indoors and need to learn to feel comfortable around people. 
+
+We strongly encourage volunteers to spend a month or longer at our rehab facility at anywhere in the world. The more time they spend with the animals, the closer
                       </p>
                     </ReactBootStrap.Modal.Body>
 
@@ -225,12 +231,21 @@ function App() {
                         to build a free of cost medical facility for the stray
                         animals where the best, most advanced, ethical and
                         highly skilled medical care is readily available.
+                        Main mission is to connect and empower animal protectors to achieve animal rights by advocacy, networking and capacity building to create a high-impact  which will continually address ongoing animal issues.
                       </p>
                     </ReactBootStrap.Modal.Body>
 
-                    {/* <ReactBootStrap.Modal.Footer>
-                  
-                    </ReactBootStrap.Modal.Footer> */}
+                                    <ReactBootStrap.Modal.Footer> 
+                                    <ReactBootStrap.Button
+                        className="btn btn-primary"
+                        variant="primary"
+                        href="https://rzp.io/l/68IC5Nb"
+                        size="lg"
+                      >
+                        Donate
+                      </ReactBootStrap.Button>
+                    
+                    </ReactBootStrap.Modal.Footer> 
                   </ReactBootStrap.Modal.Dialog>
                   </div>
 </div>
@@ -242,15 +257,21 @@ function App() {
 
 <ReactBootStrap.Modal.Dialog>
   <ReactBootStrap.Modal.Title style={wow}>
-    Our Vision
+  ADOPT A PET
   </ReactBootStrap.Modal.Title>
 
   <ReactBootStrap.Modal.Body>
     <p>
-      Animal NGO is founded by visionaries who felt the need
-      to build a free of cost medical facility for the stray
-      animals where the best, most advanced, ethical and
-      highly skilled medical care is readily available.
+   
+
+    
+There are not enough homes for all the animals that are born every year. Adopting from a shelter helps weaken the pet overpopulation cycle. Each year 8 to 12 million dogs, cats, puppies and kittens are euthanized because there are simply not enough homes for them.    
+    
+    
+Our shelter offers a variety that you won’t find anywhere else. We have specific breeds and also the greatest mutts you’ll ever find. We have more than 6,000 animals come through our doors every year.If around 1% people will come up then each and every pets will be adopted,their live will be in the safe hand. 
+    
+    
+    
     </p>
   </ReactBootStrap.Modal.Body>
 
@@ -268,13 +289,13 @@ function App() {
 </div>
 
                   </div>
-                  <div className="row">
+                  {/* <div className="row">
                   <div className="col-4">
 
                   </div>
                       <div className = "col-4 donatebutton">
                       <ReactBootStrap.Button
-                        className="btn btn-warning"
+                        className="btn btn-primary"
                         variant="primary"
                         href="https://rzp.io/l/68IC5Nb"
                         size="lg"
@@ -285,7 +306,7 @@ function App() {
                       <div className="col-4">
 
                       </div>
-                      </div>
+                      </div> */}
 
 
 
@@ -306,7 +327,8 @@ function App() {
 
 
 
-<div style={{padding:150}}>
+<div className="hello"
+  style={{ padding: "50px",marginbottom: "100px" }}>
                   <ReactBootStrap.CardGroup style={hey}>
                     <ReactBootStrap.Card style={margin2}>
                       <ReactBootStrap.Card.Img variant="top" src={i3} />
