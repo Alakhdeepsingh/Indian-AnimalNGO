@@ -60,12 +60,12 @@ let margin2 = {
 //gapping between our vision and below three box
 
 let wow = {
-  paddingLeft: "30px",
+  paddingLeft: "20px",
 };
 //AnimalNGO space from the left in navabar
 
 let hey = {
-  padding: "10px",
+  padding: "15px",
   
 };
 //padding of all the three box
@@ -181,7 +181,7 @@ function App() {
 
 
 
-                <div className="row height" style={{padding:100}} >
+                <div className="row height" style={{padding:40}} >
                   <div className="col col-md-4 height" >
 
                   <div>
@@ -223,7 +223,7 @@ We strongly encourage volunteers to spend a month or longer at our rehab facilit
 
                   <ReactBootStrap.Modal.Dialog>
                     <ReactBootStrap.Modal.Title style={wow}>
-                      Our Vision
+                      OUR VISIONS
                     </ReactBootStrap.Modal.Title>
 
                     <ReactBootStrap.Modal.Body>
@@ -328,7 +328,7 @@ Our shelter offers a variety that you won’t find anywhere else. We have specif
 
 
 
-<div className="hello"
+<div className="hello colcol-md-4"
   style={{ padding: "50px",marginbottom: "100px" }}>
                   <ReactBootStrap.CardGroup style={hey}>
                     <ReactBootStrap.Card style={margin2}>
