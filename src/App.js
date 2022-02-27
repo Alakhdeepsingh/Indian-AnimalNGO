@@ -56,6 +56,7 @@ let margin2 = {
 
 
 };
+
 //gapping between our vision and below three box
 
 let wow = {
@@ -181,7 +182,7 @@ function App() {
 
 
                 <div className="row height" style={{padding:100}} >
-                  <div className="col col-4 height" >
+                  <div className="col col-md-4 height" >
 
                   <div>
                   <ReactBootStrap.Modal.Dialog>
@@ -215,7 +216,7 @@ We strongly encourage volunteers to spend a month or longer at our rehab facilit
                   </div>
 
 
-                  <div className="col col-4 ">
+                  <div className="col col-md-4 ">
 
                   <div>
 
@@ -250,7 +251,7 @@ We strongly encourage volunteers to spend a month or longer at our rehab facilit
                   </div>
 </div>
 
-<div className="column col-4 ">
+<div className="column col-md-4 ">
 
 
 <div>
