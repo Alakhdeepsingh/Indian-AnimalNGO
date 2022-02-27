@@ -74,7 +74,7 @@ let hey = {
 
 let color = {
   backgroundImage:
-    "linear-gradient(to bottom, #3333ff 0%, #ff99cc 100%)"
+  "linear-gradient(to top, #ffffff 0%, #ccffff 100%)"
 };
 //background color
 
@@ -215,7 +215,7 @@ We strongly encourage volunteers to spend a month or longer at our rehab facilit
                   </div>
 
 
-                  <div className="col col-4">
+                  <div className="col col-4 ">
 
                   <div>
 
@@ -250,7 +250,7 @@ We strongly encourage volunteers to spend a month or longer at our rehab facilit
                   </div>
 </div>
 
-<div className="column col-4">
+<div className="column col-4 ">
 
 
 <div>
@@ -487,10 +487,10 @@ Our shelter offers a variety that you won’t find anywhere else. We have specif
                   {/* <hr className="light" style={light} /> */}
                   <h5 style={light}>Visit the website</h5>
                   {/* <hr className="light" style={light} /> */}
-                  <a href="https://www.pawsindia.org/">
-                    <p style={light}> Pawsindia</p>
+                  <a className = "hi" href="https://www.pawsindia.org/">
+                    <p style={light}> PawsIndia</p>
                   </a>
-                  <a href="https://www.scoopwhoop.com/ngos-for-animals/">
+                  <a className = "hi" href="https://www.scoopwhoop.com/ngos-for-animals/">
                     <p style={light}>NGOs for Animals</p>
                   </a>
                 </div>
