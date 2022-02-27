@@ -44,7 +44,7 @@ let margin = {
 //contact us margin
 
 let margin1 = {
-  marginLeft: "25px",
+  marginLeft: "12px",
 };
 //navbar donate button right left
 
