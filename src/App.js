@@ -48,19 +48,11 @@ let margin1 = {
 };
 //navbar donate button right left
 
-let margin2 = {
-  margin: "20px",
-  height:650,
-  width:5,
-  marginbottom: "10px",
-
-
-};
 
 //gapping between our vision and below three box
 
 let wow = {
-  paddingLeft: "20px",
+  paddingLeft: "15px",
 };
 //AnimalNGO space from the left in navabar
 
@@ -170,7 +162,7 @@ function App() {
                           alt="Third slide"
                         />
                         <ReactBootStrap.Carousel.Caption>
-                          <h3>Respect animals</h3>
+                          <h3>Love animals </h3>
                           <p>The Earth will lose its soul without animals.</p>
                         </ReactBootStrap.Carousel.Caption>
                       </ReactBootStrap.Carousel.Item>
@@ -325,13 +317,11 @@ Our shelter offers a variety that you won’t find anywhere else. We have specif
               
                       {/* </ReactBootStrap.Modal.Footer> */}
 
-
-
-
-<div className="hello colcol-md-4"
+                            
+                      <div className="hello"
   style={{ padding: "50px",marginbottom: "100px" }}>
                   <ReactBootStrap.CardGroup style={hey}>
-                    <ReactBootStrap.Card style={margin2}>
+                    <ReactBootStrap.Card style={{marginBottom:25,marginRight:10}}>
                       <ReactBootStrap.Card.Img variant="top" src={i3} />
                       <ReactBootStrap.Card.Body>
                         <ReactBootStrap.Card.Title>
@@ -351,7 +341,6 @@ Our shelter offers a variety that you won’t find anywhere else. We have specif
                           clinic.
                         </ReactBootStrap.Card.Text>
                         <ReactBootStrap.Button
-                        className="bottom"
                           href="https://www.karmafoundation.ngo/"
                           variant="primary"
                         >
@@ -360,7 +349,7 @@ Our shelter offers a variety that you won’t find anywhere else. We have specif
                       </ReactBootStrap.Card.Body>
                     </ReactBootStrap.Card>
 
-                    <ReactBootStrap.Card style={margin2}>
+                    <ReactBootStrap.Card style={{marginBottom:25,marginRight:10}}>
                       <ReactBootStrap.Card.Img variant="top" src={i1} />
                       <ReactBootStrap.Card.Body>
                         <ReactBootStrap.Card.Title>
@@ -380,7 +369,7 @@ Our shelter offers a variety that you won’t find anywhere else. We have specif
                           streets of the city.
                         </ReactBootStrap.Card.Text>
                         <ReactBootStrap.Button
-                        className="bottom"
+            
                           href="https://www.karmafoundation.ngo/"
                           variant="primary"
                         >
@@ -389,7 +378,7 @@ Our shelter offers a variety that you won’t find anywhere else. We have specif
                       </ReactBootStrap.Card.Body>
                     </ReactBootStrap.Card>
 
-                    <ReactBootStrap.Card style={margin2}>
+                    <ReactBootStrap.Card style={{marginBottom:25,marginRight:10}}>
                       <ReactBootStrap.Card.Img variant="top" src={i2} />
                       <ReactBootStrap.Card.Body>
                         <ReactBootStrap.Card.Title>
@@ -405,10 +394,10 @@ Our shelter offers a variety that you won’t find anywhere else. We have specif
                           number of patients who are victims of cruelty, road
                           accidents and who suffer from various illnesses. Our
                           partner, Animal Care Clinic has been generous by
-                          extending their support towards our cause.
+                          extending their support towards our cause. So, kindly please take our facility.
                         </ReactBootStrap.Card.Text>
                         <ReactBootStrap.Button
-                        className="bottom"
+                        
                           variant="primary"
                           href="https://www.karmafoundation.ngo/"
                         >
