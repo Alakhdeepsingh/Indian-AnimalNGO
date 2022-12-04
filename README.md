@@ -1,8 +1,9 @@
 # Payment-Gateway-Integration
 
-This is a React App 'Animal Ngo' integrated with payment gateway 'Razorpay' in test mode made for internship at The Sparks Foundation Technologies used: react.js react bootstrap Razorpay pages to integrate payment gateway netlify to deploy the website
+This is a React App 'Indian-Animal Ngo' integrated with payment gateway **Razorpay** in test mode
+Technologies used: react.js, react bootstrap, Razorpay pages to integrate payment gateway, netlify to deploy the website
 
-deployed website link https://payment-gateway-ngo.netlify.app/ or https://payment-gateway-ngo.web.app/
+Deployed website link : <a href="https://payment-gateway-ngo.netlify.app/">Click here</a> or <a href="https://payment-gateway-ngo.web.app/">Click here</a>
 
 
 
