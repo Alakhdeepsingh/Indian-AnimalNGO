@@ -29,7 +29,8 @@ I have created an Indian Animal NGO web app to help street dogs by providing med
 
 ## :sparkles:Take a look at our website 
 <p align="center">
-<img width="100%" src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/2.png" alt="main page">
+<img width="100%" src="![image](https://user-images.githubusercontent.com/54256747/217331736-36d88fc1-abbf-4269-8d5d-74379ae7541a.png)
+" alt="main page">
 <img width="100%" src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/1.png" alt="main page">
 <img width="100%" src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/3.png" alt="main page">
 
