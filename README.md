@@ -85,18 +85,10 @@ Use the below command to clone the repo into your local system.
 `$ git push origin main`
 
 ## :sparkles: Get in touch with us 
-<p style = "display:flex; flex-direction:row">
+
 <a href="https://www.linkedin.com/in/alakhdeepsingh/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%2300acee.svg?&style=for-the-badge&logo=linkedin&logoColor=white&alt=linkedin" /></a>
-
 <a href="https://www.youtube.com/channel/UC9N16ZFWsylapMikGovqjkQ" target="_blank"><img src="https://img.shields.io/badge/youtube-D14836?&style=for-the-badge&logo=youtube&logoColor=white&alt=youtube" /></a>
-
  <a href="mailto:alakhdeepsingh773@gmail.com "><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-   </p>
-
-
-
-
-
-
+   
 
 
