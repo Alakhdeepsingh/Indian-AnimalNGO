@@ -7,7 +7,7 @@
 
 [![Athena Badge](https://img.shields.io/badge/Project-Indian%20Animal%20NGO-orange?style=for-the-badge&logo=github)](https://github.com/Alakhdeepsingh/Indian-AnimalNGO)
 
-### :sparkles:About  Indian Animal NGO
+### :sparkles:About Indian Animal NGO
 
 Indian Animal NGO web app is created to help street dogs by providing medical facilities, shelters, and food. In Indian Animal NGO webapp a user can As , There are a lot of features, such as the donate button, the RazorPay API, Firebase authentication, the chat bot, and the cloud database. These features will help users donate money to the NGO for helping street dogs live a better life, and if any users have any issues with the web app, they can clear their doubts using Chatbot.
 
@@ -28,6 +28,9 @@ I have created an Indian Animal NGO web app to help street dogs by providing med
 <br>
 
 ## :sparkles:Take a look at our website 
+
+Visit website : <a href="https://indian-animal-ngo.netlify.app">ClICK HERE</a>
+
 <p align="center">
 <img width="100%" src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/2png" alt="main page">
 <img width="100%" src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/1.png" alt="main page">
