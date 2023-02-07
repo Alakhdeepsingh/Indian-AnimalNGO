@@ -16,7 +16,7 @@ let border = {
   // "linear-gradient(to bottom, #cc66ff 0%, #ff66ff 100%)"
 };
 
-export const About = () => {
+export const Animal = () => {
   return (
     <div style={fixed}>
       <div style={border}>

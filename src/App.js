@@ -1,5 +1,5 @@
 import "./App.css";
-import { About } from "./About";
+import { Animal } from "./Animal.js";
 import "bootstrap/dist/css/bootstrap.min.css";
 import * as ReactBootStrap from "react-bootstrap";
 import img2 from "./img2.jpg";
@@ -464,8 +464,8 @@ window.location.reload();
                   </>
                 }
               </Route>
-              <Route exact path="/about">
-                <About />
+              <Route exact path="/animal">
+                <Animal />
               </Route>
             </Switch>
 
