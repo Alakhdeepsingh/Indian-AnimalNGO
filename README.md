@@ -9,12 +9,12 @@
 
 ### :sparkles:About  Indian Animal NGO
 
-I have created an Indian Animal NGO web app to help street dogs by providing medical facilities, shelters, and food. There are a lot of features, such as the donate button, the RazorPay API, Firebase authentication, the chat bot, and the cloud database. These features will help users donate money to the NGO for helping street dogs live a better life, and if any users have any issues with the web app, they can clear their doubts using Chatbot.
+Indian Animal NGO web app is created to help street dogs by providing medical facilities, shelters, and food. In Indian Animal NGO webapp a user can As , There are a lot of features, such as the donate button, the RazorPay API, Firebase authentication, the chat bot, and the cloud database. These features will help users donate money to the NGO for helping street dogs live a better life, and if any users have any issues with the web app, they can clear their doubts using Chatbot.
 
 
 ### :sparkles:About the Project 
 
-I have created an Indian Animal NGO web app to help street dogs by providing medical facilities, shelters, and food. There are a lot of features, such as the donate button, the RazorPay API, Firebase authentication, the chat bot, and the cloud database. These features will help users donate money to the NGO for helping street dogs live a better life, and if any users have any issues with the web app, they can clear their doubts using Chatbot.
+I have created an Indian Animal NGO web app to help street dogs by providing medical facilities, shelters, and food. There are a lot of features, such as the donate button, the RazorPay API, Firebase authentication, the chat bot, and the cloud database. These features will help users donate money to the NGO for helping street dogs live a better life, and if any users have any issues with the web app, they can clear their doubts using Chatbot. The webapp is created using ReactJS.
 
 >
 > The features include:
