@@ -9,7 +9,7 @@
 
 ### :sparkles:About Indian Animal NGO
 
-Indian Animal NGO web app is created to help street dogs by providing medical facilities, shelters, and food. In Indian Animal NGO webapp a user can As , There are a lot of features, such as the donate button, the RazorPay API, Firebase authentication, the chat bot, and the cloud database. These features will help users donate money to the NGO for helping street dogs live a better life, and if any users have any issues with the web app, they can clear their doubts using Chatbot.
+Indian Animal NGO web app is created to help street dogs by providing medical facilities, shelters, and food.Animal NGO is founded by visionaries who felt the need to build a free of cost medical facility for the stray animals where the best, most advanced, ethical and highly skilled medical care is readily available. Main mission is to connect and empower animal protectors to achieve animal rights by advocacy, networking and capacity building to create a high-impact which will continually address ongoing animal issues.There are not enough homes for all the animals that are born every year. Adopting from a shelter helps weaken the pet overpopulation cycle. Each year 8 to 12 million dogs, cats, puppies and kittens are euthanized because there are simply not enough homes for them. Our shelter offers a variety that you won’t find anywhere else. 
 
 
 ### :sparkles:About the Project 
