@@ -18,11 +18,11 @@ I have created an Indian Animal NGO web app to help street dogs by providing med
 
 >
 > The features include:
-> 1. **Chatbot** - A Fully Automated Content Posting System
-> 2. **Razorpay Payment Method** - User Dashboard and Admin Panel
-> 3. **Firebase  authentication** - 83+ Formatting Options
-> 4. **Cloud Database** - Functionality to save your contributions as Drafts, Send for Reviews and Get is Published by Admin
-> 5. **Webapp(About page, Home Page, Slider, Footer)** - Newsletter Section for getting updates about new posts
+> 1. **Chatbot** - A Chatbot is used to chat with users
+> 2. **Razorpay Payment Method** - For accepting donation for street dogs used Razorpay
+> 3. **Firebase  authentication** - For web app protection and for scalable used Firebase
+> 4. **Cloud Database**
+> 5. **Webapp(About page, Home Page, Slider, Footer)**
 
 
 <br>
