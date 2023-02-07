@@ -42,11 +42,12 @@ I have created an Indian Animal NGO web app to help street dogs by providing med
 
 [![Language Used](https://img.shields.io/badge/Library-ReactJS-red)](https://github.com/Alakhdeepsingh/Indian-AnimalNGO)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+[![Language Used](https://img.shields.io/badge/Security-Firebase-yellow)](https://github.com/Alakhdeepsingh/Indian-AnimalNGO)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <br>
 
 ## :sparkles: Instructions for Cloning this Repository Locally
 - Use the command: `git clone https://github.com/Alakhdeepsingh/Indian-AnimalNGO`
-- Take the database file named: `arms.sql` in the Database folder
 - **If Project had to be run locally, using VS Code**
   - After cloning in Local system write command `npm install` and after then `npm start` in Terminal of VS Code.
 
@@ -69,7 +70,7 @@ Use the below command to clone the repo into your local system.
 
 #### Add upstream to repository 
 `$ cd <your-forked-project-folder>`<br>
-`$ git remote add upstream https://github.com/hariketsheth/Article_Repository_Management_System.git` <br>
+`$ git remote add upstream https://github.com/Alakhdeepsingh/Indian-AnimalNGO.git` <br>
 `$ git checkout main`<br>
 `$ git fetch upstream`<br>
 `$ git merge upstream/main`<br>
@@ -84,12 +85,13 @@ Use the below command to clone the repo into your local system.
 `$ git push origin main`
 
 ## :sparkles: Get in touch with us 
+<p style = "display:flex; flex-direction:row">
 <a href="https://www.linkedin.com/in/alakhdeepsingh/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%2300acee.svg?&style=for-the-badge&logo=linkedin&logoColor=white&alt=linkedin" /></a>
 
 <a href="https://www.youtube.com/channel/UC9N16ZFWsylapMikGovqjkQ" target="_blank"><img src="https://img.shields.io/badge/youtube-D14836?&style=for-the-badge&logo=youtube&logoColor=white&alt=youtube" /></a>
 
  <a href="mailto:alakhdeepsingh773@gmail.com "><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
+   </p>
 
 
 
