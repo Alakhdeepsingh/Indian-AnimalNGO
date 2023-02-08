@@ -32,8 +32,8 @@ I have created an Indian Animal NGO web app to help street dogs by providing med
 Visit website : <a href="https://indian-animal-ngo.netlify.app">ClICK HERE</a>
 
 <p align="center">
-<img width="100%" src="https://github.com/Alakhdeepsingh/Indian-AnimalNGO/blob/main/333.jpg" alt="main pages">
-<img width="100%" src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/1.png" alt="main pagess">
+<img width="100%" src="https://github.com/Alakhdeepsingh/Indian-AnimalNGO/blob/main/2.jpg" alt="main pages">
+<img width="100%" src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/333.png" alt="main pagess">
 <img width="100%" src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/3.png" alt="main page">
 </p>
 
