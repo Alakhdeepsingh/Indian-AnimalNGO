@@ -36,7 +36,6 @@ Visit website : <a href="https://indian-animal-ngo.netlify.app">ClICK HERE</a>
 <img width="100%" src="https://github.com/Alakhdeepsingh/Indian-AnimalNGO/blob/main/333.jpg" alt="main pic2">
 <img width="100%" src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/4.png" alt="main pic3">
 <img width="100%" src="https://github.com/Alakhdeepsingh/Alakhdeepsingh/blob/main/3.png" alt="main pic4">
-</
 
 
 
